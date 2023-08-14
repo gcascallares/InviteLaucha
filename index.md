@@ -35,14 +35,14 @@
     <meta property="og:title" content="Invitacion Cumpleaños Lautaro" />
     <meta name="title" content="Invitacion Cumpleaños Lautaro">
     <meta name="description" content="Ingresa para ver la invitacion.">
-    <meta property="og:image" content="https://github.com/gcascallares/InviteLaucha/blob/main/images/mini.jpg" />
+    <meta property="og:image" content="https://raw.githubusercontent.com/gcascallares/InviteLaucha/main/images/mini.jpg" />
     <meta property="og:image:width" content="300">
     <meta property="og:image:height" content="180">
     <meta name="twitter:title" content="Invitacion Cumpleaños Lautaro">
 <meta name="twitter:description" content="Ingresa para ver la invitacion.">
-<meta name="twitter:image" content="https://github.com/gcascallares/InviteLaucha/blob/main/images/mini.jpg">
+<meta name="twitter:image" content="https://raw.githubusercontent.com/gcascallares/InviteLaucha/main/images/mini.jpg">
 <meta name="twitter:card" content="summary_large_image">
-    <meta itemprop="image" content="https://github.com/gcascallares/InviteLaucha/blob/main/images/mini.jpg"  />
+    <meta itemprop="image" content="https://raw.githubusercontent.com/gcascallares/InviteLaucha/main/images/mini.jpg"  />
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script
