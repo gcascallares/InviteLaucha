@@ -9,9 +9,9 @@
     <meta name="viewport" content="initial-scale=1, maximum-scale=1" />
     <!-- site metas -->
     <title>Invitacion Lautaro</title>
-    <meta name="keywords" content="" />
-    <meta name="description" content="" />
-    <meta name="author" content="" />
+    <meta name="keywords" content="Invitacion Cumpleaños" />
+    <meta name="description" content="Invitacion Cumpleaños Lautaro" />
+    <meta name="author" content="GCascallares" />
     <!-- bootstrap css -->
     <link rel="stylesheet" href="css/bootstrap.min.css" />
     <!-- style css -->
