@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="viewport" content="initial-scale=1, maximum-scale=1" />
     <!-- site metas -->
-    <title>Invitacion Geraldine</title>
+    <title>Invitacion Lautaro</title>
     <meta name="keywords" content="" />
     <meta name="description" content="" />
     <meta name="author" content="" />
@@ -57,12 +57,12 @@
               <div class="col-md-12">
                 <div class="text-bg">
                   <span>
-                    <strong class="multi">Geraldine</strong> te invita a
+                    <strong class="multi">Lautaro</strong> te invita a
                     festejar su Cumpleaños!!</span
                   >
-                  <h1>El día 20 de Mayo</h1>
+                  <h1>El día .. de Agosto de 00:00 a 00:00hs</h1>
                   <audio
-                    src="images/BloodyMary.mp3"
+                    src="images/Supermerk2.mp3"
                     controls
                   ></audio>
                 </div>
@@ -80,14 +80,14 @@
           <div class="col-md-12">
             <div class="titlepage">
               <h2>Donde estaremos</h2>
-              <span>Belén 825, Ituzaingó</span>
+              <span>Manuel Acevedo 47, San Antonio de Padua</span>
             </div>
           </div>
         </div>
         <div class="row">
           <div class="col-md-12">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3282.789572640469!2d-58.68576958476953!3d-34.63475758045152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbf0f70515555%3A0xb6bf8eeaa8acd651!2sFantasia&#39;s!5e0!3m2!1ses!2sar!4v1681756203683!5m2!1ses!2sar"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1379.7572952286855!2d-58.694528103421895!3d-34.66393531239579!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbfec6c2be3f9%3A0x9ddaa62da8df56ea!2sClub%20VINCULO%20GANADERO!5e0!3m2!1ses!2sar!4v1692022391341!5m2!1ses!2sar"
               width="100%"
               height="100%"
               frameborder="0"
@@ -106,7 +106,7 @@
           <div class="col-md-12">
             <div class="titlepage">
               <h2>Nuestra Planificación Incluye</h2>
-              >
+
             </div>
           </div>
         </div>
@@ -114,19 +114,19 @@
           <div class="col-md-4">
             <div class="Our_box">
               <i><img src="images/plan1.gif" alt="#" /></i>
-              <h4>Fiesta!</h4>
+              <h4>Buena Musica!</h4>
             </div>
           </div>
           <div class="col-md-4">
             <div class="Our_box">
               <i><img src="images/plan2.gif" alt="#" /></i>
-              <h4>Cosas Dulces!</h4>
+              <h4>Familia y amigos!</h4>
             </div>
           </div>
           <div class="col-md-4">
             <div class="Our_box">
               <i><img src="images/plan3.gif" alt="#" /></i>
-              <h4>Globos!</h4>
+              <h4>Bebidas!</h4>
             </div>
           </div>
         </div>
@@ -142,7 +142,7 @@
                  <h2>Confirma tu asistencia</h2>
                <div class="col-sm-12 main_form">
                  <a
-                   href="https://wa.me/5491155979953/?text=Confimo%20la%20asistencia"
+                   href="https://wa.me/5491130383613/?text=Confimo%20la%20asistencia"
                    target="_blank"
                    ><button class="register">whatsapp</button></a
                  >
