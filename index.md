@@ -10,7 +10,7 @@
     <!-- site metas -->
     <title>Invitacion Laucha</title>
     <meta name="keywords" content="Invitacion Cumpleaños" />
-    <meta name="description" content="Invitacion Cumpleaños Lautaro" />
+    <meta name="description" content="Invitacion Cumpleaños Laucha" />
     <meta name="author" content="GCascallares" />
     <!-- bootstrap css -->
     <link rel="stylesheet" href="css/bootstrap.min.css" />
