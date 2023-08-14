@@ -33,7 +33,7 @@
       media="screen"
     />
     <meta property="og:title" content="Invitacion Cumpleaños Lautaro" />
-    <meta property="og:image" content="https://github.com/gcascallares/InviteLaucha/blob/main/images/mini.PNG" />
+    <meta property="og:image" content="https://github.com/gcascallares/InviteLaucha/blob/main/images/mini.jpg" />
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script
