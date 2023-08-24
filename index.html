@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="viewport" content="initial-scale=1, maximum-scale=1" />
     <!-- site metas -->
-    <title>Invitacion Laucha</title>
+    <title>Invitacion xxxxxx</title>
     <meta name="keywords" content="Invitacion Cumpleaños" />
     <meta name="description" content="Invitacion Cumpleaños Laucha" />
     <meta name="author" content="GCascallares" />
@@ -32,13 +32,13 @@
       href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css"
       media="screen"
     />
-    <meta property="og:title" content="Invitacion Cumpleaños Laucha" />
-    <meta name="title" content="Invitacion Cumpleaños Laucha">
+    <meta property="og:title" content="Invitacion Cumpleaños xxxxxx" />
+    <meta name="title" content="Invitacion Cumpleaños xxxxxx">
     <meta name="description" content="Ingresa para ver la invitacion.">
     <meta property="og:image" content="https://raw.githubusercontent.com/gcascallares/InviteLaucha/main/images/mini.jpg" />
     <meta property="og:image:width" content="300">
     <meta property="og:image:height" content="180">
-    <meta name="twitter:title" content="Invitacion Cumpleaños Laucha">
+    <meta name="twitter:title" content="Invitacion Cumpleaños xxxxxx">
     <meta name="twitter:description" content="Ingresa para ver la invitacion.">
     <meta name="twitter:image" content="https://raw.githubusercontent.com/gcascallares/InviteLaucha/main/images/mini.jpg">
     <meta name="twitter:card" content="summary_large_image">
@@ -68,10 +68,10 @@
               <div class="col-md-12">
                 <div class="text-bg">
                   <span>
-                    <strong class="multi">Laucha</strong> te invita a
+                    <strong class="multi">xxxxxx</strong> te invita a
                     festejar su Cumpleaños!!</span
                   >
-                   <h1>El día 19 de Agosto desde las 21:00 hs!!</h1>
+                   <h1>El día xx de xxxxx desde las 00:00 hs!!</h1>
                   <audio
                     src="images/Supermerk2.mp3"
                     controls
@@ -91,14 +91,14 @@
           <div class="col-md-12">
             <div class="titlepage">
               <h2>Donde estaremos</h2>
-              <span>Manuel Acevedo 47, San Antonio de Padua</span>
+              <span>Calle Falsa 123</span>
             </div>
           </div>
         </div>
         <div class="row">
           <div class="col-md-12">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1379.7572952286855!2d-58.694528103421895!3d-34.66393531239579!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbfec6c2be3f9%3A0x9ddaa62da8df56ea!2sClub%20VINCULO%20GANADERO!5e0!3m2!1ses!2sar!4v1692022391341!5m2!1ses!2sar"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d74284.46265739248!2d-58.6332378107349!3d-34.630945002541885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb8bc768e1ea5%3A0x292c54382e196f96!2sPlaza%20Oeste%20Shopping!5e0!3m2!1ses!2sar!4v1692886282680!5m2!1ses!2sar"
               width="100%"
               height="100%"
               frameborder="0"
@@ -153,7 +153,7 @@
                  <h2>Confirma tu asistencia</h2>
                <div class="col-sm-12 main_form">
                  <a
-                   href="https://wa.me/5491130383613/?text=Confimo%20la%20asistencia"
+                   href="https://wa.me/1111111111/?text=Confimo%20la%20asistencia"
                    target="_blank"
                    ><button class="register">whatsapp</button></a
                  >
@@ -187,7 +187,7 @@
                   <a
                     href="https://ar.linkedin.com/in/gabriel-alejandro-cascallares-364395192"
                   >
-                    Gcascallares</a
+                    Enlace Epico</a
                   >
                 </p>
               </div>
